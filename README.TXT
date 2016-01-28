@@ -3,3 +3,5 @@ This is a public repository for my college work.  I'm sorry that it's rather bar
 More will be added later as I complete projects.
 
 Copyright 2016, by Jason Bright, all rights reserved, yada yada yada.
+
+Change made from my local repository
